@@ -6,9 +6,11 @@
 - 📄 Conheça minhas experiências no meu [Linkedin](https://www.linkedin.com/in/edson-kelvin)
 
 ### Conecte-se comigo:
-[![Linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/edson-kelvin)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/edskelvin)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/@edskelvin)
+[<img align="left" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://linkedin.com/in/edson-kelvin)
+[<img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />](https://fb.com/edskelvin)
+[<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://instagram.com/@edskelvin)
+
+<br />
 
 ### Idiomas e ferramentas:
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
@@ -17,7 +19,11 @@
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
 
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=edsonkelvindev&show_icons=true&locale=en&layout=compact)
+
+
 
 
 
